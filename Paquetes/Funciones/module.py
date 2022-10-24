@@ -13,7 +13,7 @@ def pares():
 
 
 def impares():
-    print ("funciones pares ")
+    print ("funciones impares ")
     for i in range (1,10,2):
         print (i)
 
